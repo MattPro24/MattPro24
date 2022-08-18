@@ -8,7 +8,7 @@ I'm a solutions-focused, flexible management professional offering a comprehensi
 
 In late 2021 I decided I wanted to take a leap into a new field, and began my Software Development career by joining an amazing team to build a website for CNM Pro. CNM Pro is a freelancing platform specializing in, connecting all careers within the infrastructure community with consulting and engineering firms in order to create flexibility and optimize human resource utilization for infrastructure and capital projects. I have been in-charge of the Organizations page where I built up the back-end, middle tier, and front end. The languages I utilized to build my end of the website are HTML, CSS, JavaScript, React, .NET, C#, and SQL.
 
-* 🌍  I'm based in Yuma, Arizona, but I will be going back to New Hampshire this fall!
+* 🌍  I'm based in Yuma, Arizona.
 * ✉️  You can contact me at [matthewrprothero@gmail.com](mailto:matthewrprothero@gmail.com)
 
 ### Skills
