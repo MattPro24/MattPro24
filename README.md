@@ -6,10 +6,9 @@ I am a Full-Stack Software Engineer.
 
 I'm a solutions-focused, flexible management professional offering a comprehensive background supporting U.S. military operations in roles of increasing responsibility, with 5 years experience. Effective communicator who quickly adapts to new roles and technologies to achieve successful results. 
 
-In late 2021 I decided I wanted to take a leap into a new field, and began my Software Development career by joining an amazing team to build a website for CNM Pro. CNM Pro is a freelancing platform specializing in, connecting all careers within the infrastructure community with consulting and engineering firms in order to create flexibility and optimize human resource utilization for infrastructure and capital projects. I have been in-charge of the Organizations page where I built up the back-end, middle tier, and front end. The languages I utilized to build my end of the website are HTML, CSS, JavaScript, React, .NET, C#, and SQL.
+In late 2021 I decided I wanted to take a leap into a new field, and began my Software Engineer career by joining an amazing team to build a website for CNM Pro. Aquifer PE is a freelancing platform specializing in, connecting all careers within the infrastructure community with consulting and engineering firms in order to create flexibility and optimize human resource utilization for infrastructure and capital projects. I have been in-charge of the Organizations page where I built up the back-end, middle tier, and front end. The languages I utilized to build my components were HTML, CSS, JavaScript, React, .NET, C#, and SQL.
 
-* 🌍  I'm based in Yuma, Arizona.
-* ✉️  You can contact me at [matthewrprothero@gmail.com](mailto:matthewrprothero@gmail.com)
+* 🌍  I'm based in Merrimack, New Hampshire.
 
 ### Skills
 
