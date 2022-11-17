@@ -8,8 +8,6 @@ I'm a solutions-focused, flexible management professional offering a comprehensi
 
 In late 2021 I decided I wanted to take a leap into a new field, and began my Software Engineer career by joining an amazing team to build a website for Aquifer PE. Aquifer PE is a freelancing platform specializing in, connecting all careers within the infrastructure community with consulting and engineering firms in order to create flexibility and optimize human resource utilization for infrastructure and capital projects. I have been in-charge of the Organizations page where I built up the back-end, middle tier, and front end. The languages I utilized to build my components were HTML, CSS, JavaScript, React, .NET, C#, and SQL.
 
-* 🌍  I'm based in Merrimack, New Hampshire.
-
 ### Skills
 
 <p align="left">
